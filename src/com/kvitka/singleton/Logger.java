@@ -1,4 +1,4 @@
-package com.kvitka.sigleton;
+package com.kvitka.singleton;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
